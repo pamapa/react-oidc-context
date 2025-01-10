@@ -68,7 +68,7 @@
     "react-test-renderer": "^18.3.1",
     "ts-jest": "^29.2.5",
     "tslib": "^2.8.1",
-    "typescript": "~5.4.2",
+    "typescript": "~5.7.3",
     "yn": "^5.0.0"
   },
   "engines": {
